@@ -11,7 +11,7 @@
     * Select the `egg-insanity-bot.json` that you downloaded from GitHub. Under `Associated Nest` select the `Discord` nest, then `Import`.
 3. As you have just added a new egg to your panel, you will need to restart the Pterodactyl daemon to apply the changes. You can do this by running the following command in SSH of the server with the daemon installed:
 ```
-service wings restart
+systemctl wings restart
 ```
 #### Nice! You have installed the egg! Now just create a server using the egg.
 5. Head to `Servers` > `Create New`
