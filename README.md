@@ -1,8 +1,8 @@
 # :bird: InsanityBot Pterodactyl Egg :egg:
-**THIS EGG IS *NOT* FOR COMMERCIAL-USE. INSANITY NETWORK DO NOT TAKE ANY RESPONSIBILITY OR PROVIDE ANY SUPPORT FOR USING THE EGG ON YOUR OWN PTERODACTYL INSTALLATION.**
+**THIS EGG IS *NOT* FOR COMMERCIAL-USE. INSANITY NETWORK/EXAINSANITY DO NOT TAKE ANY RESPONSIBILITY OR PROVIDE ANY SUPPORT FOR USING THE EGG ON YOUR OWN PTERODACTYL INSTALLATION.**
 
 ## :wrench: Installation :hammer:
-1. Download the latest version of the egg from [here](https://github.com/InsanityNetwork/eggs/blob/master/egg-insanity-bot.json).
+1. Download the latest version of the egg from [here](https://github.com/InsanityNetwork/eggs/blob/master/egg-insanity-bot.json). The easiest way to do this is right-click the `RAW` button and hit `Save link as...` to then save it on your local machine.
 2. Add the egg to your Pterodactyl panel:
     * Go to your Pterodactyl panel
     * Click on: `Admin Control Panel` > `Nests` > `Create New`
