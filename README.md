@@ -1,7 +1,7 @@
-# :bird: InsanityBot Pterodactyl Eggs :bird:
+# :bird: InsanityBot Pterodactyl Eggs :egg:
 **THIS EGG IS *NOT* FOR COMMERCIAL-USE. INSANITY NETWORK DO NOT TAKE ANY RESPONSIBILITY OR PROVIDE ANY SUPPORT FOR USING THE EGG ON YOUR OWN PTERODACTYL INSTALLATION.**
 
-## Installation
+## :wrench: Installation :hammer:
 1. Download the latest version of the egg from [here](https://github.com/InsanityNetwork/eggs/blob/master/egg-insanity-bot.json).
 2. Add the egg to your Pterodactyl panel:
     * Go to your Pterodactyl panel
@@ -20,5 +20,5 @@ service wings restart
 9. Create the server and wait for it to install.
 10. Once it's done installing, connect to your servers FTP (recommended, or use the one built into the panel) and upload the bots files from the [InsanityBot repository](https://github.com/InsanityNetwork/InsanityBot).
 
-## Licence
+## :scroll: Licence :scroll:
 This egg is licenced under the [MIT Licence](https://github.com/InsanityNetwork/eggs/blob/master/LICENSE).
