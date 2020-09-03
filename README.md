@@ -15,7 +15,7 @@ systemctl restart wings
 ```
 #### Nice! You have installed the egg! Now just create a server using the egg.
 5. Head to `Servers` > `Create New`
-6. Fill out all the servers information. **Note:** InsanityBot requires at least of 250MB of RAM (recommended 500MB+ RAM).
+6. Fill out all the servers information. **Note:** InsanityBot requires at least 100MB of RAM (recommended 250MB+ RAM).
 7. Make sure to select the nest called `Discord` and the egg called `InsanityBot`.
 9. Create the server and wait for it to install.
 10. Once it's done installing, connect to your servers FTP (recommended, or use the one built into the panel) and upload the bots files from the [InsanityBot repository](https://github.com/InsanityNetwork/InsanityBot).
