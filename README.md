@@ -1,4 +1,4 @@
-# :bird: InsanityBot Pterodactyl Eggs :egg:
+# :bird: InsanityBot Pterodactyl Egg :egg:
 **THIS EGG IS *NOT* FOR COMMERCIAL-USE. INSANITY NETWORK DO NOT TAKE ANY RESPONSIBILITY OR PROVIDE ANY SUPPORT FOR USING THE EGG ON YOUR OWN PTERODACTYL INSTALLATION.**
 
 ## :wrench: Installation :hammer:
