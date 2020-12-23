@@ -9,7 +9,7 @@ InsanityBot Version | [InsanityEgg v2 (Latest)](https://github.com/InsanityNetwo
 2.0.0-dev.00010 and newer | :white_check_mark: | :x:
 2.0.0-dev.00009 and older | :x: | :white_check_mark:
 
-***Note:** No support will only be provided for the latest version of the egg.*
+***Note:** Support will only be provided for the latest version of the egg.*
 
 ## :question: Support :question:
 The fastest way to get support is via our [Discord server](https://discord.gg/8TKJaGs). Alternatively you can open a GitHub issue [here](https://github.com/InsanityNetwork/InsanityEggs/issues/new), however, you will likely have to wait longer to get a reply.
