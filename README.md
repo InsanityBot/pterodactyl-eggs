@@ -20,4 +20,4 @@ The fastest way to get support is via our [Discord server](https://discord.gg/8T
 This egg is licenced under the [MIT Licence](https://github.com/InsanityNetwork/eggs/blob/master/LICENSE).
 The InsanityBot TOS can be viewed [here](https://bot.insanity.network/tos/).
 
-Copyright &copy; 2020 ExaInsanity
+Copyright &copy; 2020 - 2021 ExaInsanity
