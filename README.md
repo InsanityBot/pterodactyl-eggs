@@ -1,7 +1,7 @@
 # :bird: InsanityBot Pterodactyl Egg :egg:
 
 ## :wrench: Installation :hammer:
-Installation instructions can be found [here](https://docs.insanity.network/en/eggs/Installation).
+Installation instructions can be found [here](https://docs.bot.insanity.network/en/eggs/Installation).
 
 ## :white_check_mark: Compatibility :white_check_mark:
 InsanityBot Version | [InsanityEgg v2 (Latest)](https://github.com/InsanityNetwork/InsanityEggs/blob/master/egg-insanity-bot.json) | [InsanityEgg v1](https://github.com/InsanityNetwork/InsanityEggs/blob/master/legacy/egg-insanity-bot-v1.json)
