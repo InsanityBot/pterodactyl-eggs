@@ -6,7 +6,7 @@ Installation instructions can be found [here](https://docs.insanity.network/en/e
 
 ## Compatibility
 
-InsanityBot Version | [InsanityEgg v3 (Latest)](https://github.com/InsanityNetwork/InsanityEggs/blob/master/egg-insanity-bot.json) | [InsanityEgg v2](https://github.com/InsanityBot/pterodactyl-eggs/blob/main/legacy/egg-insanity-bot-v2.json) | [InsanityEgg v1](https://github.com/InsanityNetwork/InsanityEggs/blob/master/legacy/egg-insanity-bot-v1.json)
+InsanityBot Version | [InsanityEgg v3 (Latest)](https://github.com/InsanityNetwork/InsanityEggs/blob/main/egg-insanity-bot.json) | [InsanityEgg v2](https://github.com/InsanityBot/pterodactyl-eggs/blob/main/legacy/egg-insanity-bot-v2.json) | [InsanityEgg v1](https://github.com/InsanityNetwork/InsanityEggs/blob/main/legacy/egg-insanity-bot-v1.json)
 ------------ | ------------- | ------------- | -------------
 2.0.0-dev.00030 and newer | :white_check_mark: | :x: | :x:
 2.0.0-dev.00010 to 2.0.0-dev.00029 | :x: | :white_check_mark: | :x:
@@ -22,7 +22,7 @@ The fastest way to get support is via our [Discord server](https://discord.gg/8T
 
 ## Licence, Copyright & TOS
 
-This egg is licenced under the [MIT Licence](https://github.com/InsanityNetwork/eggs/blob/master/LICENSE).
+This egg is licenced under the [MIT Licence](https://github.com/InsanityNetwork/eggs/blob/main/LICENSE).
 The InsanityBot TOS can be viewed [here](https://bot.insanity.network/tos/).
 
 Copyright &copy; 2020 - 2021 ExaInsanity
