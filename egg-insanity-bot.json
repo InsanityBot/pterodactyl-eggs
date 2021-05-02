@@ -9,12 +9,12 @@
     "description": "Pterodactyl egg for InsanityBot 2.x",
     "features": null,
     "image": "quay.io\/parkervcp\/pterodactyl-images:debian_dotnet-5",
-    "startup": "dotnet .\/exe\/InsanityBot.dll",
+    "startup": "dotnet InsanityBot.dll",
     "config": {
         "files": "{}",
-        "startup": "{\r\n    \"done\": \"Startup successful!\",\r\n    \"userInteraction\": [\r\n        \"Please fill out the configuration file\",\r\n        \"Invalid Token.\",\r\n        \"Please fill out the language file\"\r\n    ]\r\n}",
+        "startup": "{\r\n    \"done\": \"Startup successful!\",\r\n}",
         "logs": "{}",
-        "stop": "^C"
+        "stop": "stop"
     },
     "scripts": {
         "installation": {
