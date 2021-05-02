@@ -12,7 +12,7 @@
     "startup": "dotnet InsanityBot.dll",
     "config": {
         "files": "{}",
-        "startup": "{\r\n    \"done\": \"Startup successful!\",\r\n}",
+        "startup": "{\r\n    \"done\": \"Startup successful!\"\r\n}",
         "logs": "{}",
         "stop": "stop"
     },
