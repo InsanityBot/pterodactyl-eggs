@@ -8,7 +8,7 @@ Installation instructions can be found [here](https://docs.insanity.network/en/e
 
 InsanityBot Version | [InsanityEgg v3 (Latest)](https://github.com/InsanityNetwork/InsanityEggs/blob/master/egg-insanity-bot.json) | [InsanityEgg v2](https://github.com/InsanityBot/pterodactyl-eggs/blob/main/legacy/egg-insanity-bot-v2.json) | [InsanityEgg v1](https://github.com/InsanityNetwork/InsanityEggs/blob/master/legacy/egg-insanity-bot-v1.json)
 ------------ | ------------- | ------------- | -------------
-2.0.0-dev.00030 | :white_check_mark: | :x: | :x:
+2.0.0-dev.00030 and newer | :white_check_mark: | :x: | :x:
 2.0.0-dev.00010 to 2.0.0-dev.00029 | :x: | :white_check_mark: | :x:
 2.0.0-dev.00009 and older | :x: | :x: | :white_check_mark:
 
