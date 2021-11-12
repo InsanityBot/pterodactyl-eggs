@@ -1,8 +1,8 @@
 FROM mcr.microsoft.com/dotnet/sdk:6.0-alpine
 
-USER container
+LABEL author="Iris Féanorá" maintainer="InsanityBot Project"
 
-RUN adduser --disabled-password --home /home/container container
+USER container
 
 ENV USER=container HOME=/home/container
 
