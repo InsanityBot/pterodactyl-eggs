@@ -6,6 +6,7 @@ Installation instructions can be found [here](https://docs.insanity.network/en/e
 
 ## Compatibility
 
+Egg version | InsanityBot version compatibility
 ------------ | ------------- 
 [Egg v4](https://github.com/insanitybot/pterodactyl-eggs/blob/main/egg-insanity-bot-v4.json) | 2.0.0-dev.00046 and newer
 [Egg v3](https://github.com/insanitybot/pterodactyl-eggs/blob/main/legacy/egg-insanity-bot-v3) | 2.0.0-dev.00030 to 2.0.0-dev.00045
